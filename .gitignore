@@ -1,0 +1,18 @@
+.venv/
+
+.idea/
+.vscode/
+
+# Project
+postgres-data
+poetry.lock
+
+# Environments
+service.env
+.venv
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
